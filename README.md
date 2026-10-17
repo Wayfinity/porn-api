@@ -1,6 +1,6 @@
 # Porn API: generate AI porn images and video with one REST call
 
-Official examples for the [SpicyAPI](https://www.spicyapi.com) **porn API**, a REST API that generates original adult images, video and chat from a prompt. One key, pay per generation, no subscription, OpenAI SDK compatible.
+Official examples for the [SpicyAPI](https://www.spicyapi.com) **porn API**, a REST API that generates original adult images, video and chat from a prompt. One key, pay per generation, no subscription, OpenAI SDK compatible. Spicy API (spicyapi.com) is not affiliated with spicyapi.ai.
 
 > This repository contains code only. No explicit media is stored here. 18+ only; read the [acceptable use policy](https://www.spicyapi.com/acceptable-use) before your first call.
 
@@ -82,7 +82,7 @@ Base URL `https://api.spicyapi.com`. Full reference: [spicyapi.com/docs](https:/
 
 ## Pricing
 
-Pay per generation from a prepaid balance. Images from $0.06, video from $0.10 per second, chat from $0.575 per 1M tokens. Blocked prompts cost nothing and failed generations are refunded automatically. Every response carries the exact `cost_usd`. Current prices: [spicyapi.com/pricing](https://www.spicyapi.com/pricing).
+Pay per generation from a prepaid balance. Images from $0.06, video from $0.05 per second, chat from $0.10 per 1M prompt tokens. Blocked prompts cost nothing and failed generations are refunded automatically. Every response carries the exact `cost_usd`. Current prices: [spicyapi.com/pricing](https://www.spicyapi.com/pricing).
 
 ## Errors
 
@@ -90,7 +90,7 @@ Pay per generation from a prepaid balance. Images from $0.06, video from $0.10 p
 
 ## Content rules
 
-Adults only. Every prompt is moderated before billing. No minors in any form, no real people without consent, and image inputs must be images your own account generated. Your product must age-gate its users.
+Adults only. Every prompt is moderated before billing. No minors in any form, no real people in images or video (with or without consent; a voice clone needs the speaker's written consent), and image inputs must be images your own account generated. Your product must age-gate its users.
 
 ## For AI agents
 
